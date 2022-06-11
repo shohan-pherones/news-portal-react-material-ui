@@ -4,7 +4,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 0 0 50px 50px;
   color: white;
   cursor: pointer;
   transition: all 0.1s linear;
@@ -20,4 +19,5 @@
   text-transform: uppercase;
   font-size: 3rem;
   letter-spacing: 2px;
+  font-weight: 700;
 }
