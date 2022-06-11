@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { CardGroup, Spinner } from "react-bootstrap";
-import News from "../../News/News";
+import News from "../News/News";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./Newspaper.css";
 
