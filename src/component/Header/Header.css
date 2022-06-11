@@ -1,0 +1,23 @@
+.header {
+  background-color: #00aed6;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0 0 50px 50px;
+  color: white;
+  cursor: pointer;
+  transition: all 0.1s linear;
+}
+
+.header:hover {
+  background-color: black;
+  color: #00aed6;
+}
+
+.logo {
+  margin: 0;
+  text-transform: uppercase;
+  font-size: 3rem;
+  letter-spacing: 2px;
+}
